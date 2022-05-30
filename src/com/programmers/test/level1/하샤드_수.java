@@ -1,8 +1,9 @@
 package com.programmers.test.level1;
 
-public class Test13 {
+// ÇÏ»þµå ¼ö  https://programmers.co.kr/learn/courses/30/lessons/12947
+public class ÇÏ»þµå_¼ö {
 	public static void main(String[] args) {
-		Test13 test = new Test13();
+		ÇÏ»þµå_¼ö test = new ÇÏ»þµå_¼ö();
 
 		System.out.println(test.solution2(98596));
 	}

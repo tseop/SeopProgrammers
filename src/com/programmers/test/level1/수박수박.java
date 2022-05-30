@@ -1,8 +1,9 @@
 package com.programmers.test.level1;
 
-public class Test7 {
+// 수박수박 https://programmers.co.kr/learn/courses/30/lessons/12922
+public class 수박수박 {
 	public static void main(String[] args) {
-		Test7 test = new Test7();
+		수박수박 test = new 수박수박();
 		System.out.println(test.solution(3));
 		System.out.println(test.solution(4));
 

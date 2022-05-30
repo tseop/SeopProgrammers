@@ -2,8 +2,10 @@ package com.programmers.test.level1;
 
 import java.util.Scanner;
 
-public class Test8 {
+// 직사각형 별찍기 https://programmers.co.kr/learn/courses/30/lessons/12969
+public class 직사각형_별찍기 {
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		int b = sc.nextInt();

@@ -4,10 +4,10 @@ package com.programmers.test.level1;
  * 이상한 문자 만들기
  * https://programmers.co.kr/learn/courses/30/lessons/12930
  */
-public class Test14 {
+public class 이상한_문자_만들기 {
 
 	public static void main(String[] args) {
-		Test14 test = new Test14();
+		이상한_문자_만들기 test = new 이상한_문자_만들기();
 		System.out.println(test.solution("try hello world"));
 		System.out.println(test.solution("QWDQWDf      qw fwq fwqfqwfew f wef fw fwe fqwef f fqwef "));
 	}

@@ -1,8 +1,9 @@
 package com.programmers.test.level1;
 
-public class Test6 {
+// 서울에서 김서방 찾기 https://programmers.co.kr/learn/courses/30/lessons/12919
+public class 서울에서_김서방_찾기 {
 	public static void main(String[] args) {
-		Test6 test = new Test6();
+		서울에서_김서방_찾기 test = new 서울에서_김서방_찾기();
 		String[] seoul = { "Jane", "Kim" };
 
 		String result = test.solution(seoul);

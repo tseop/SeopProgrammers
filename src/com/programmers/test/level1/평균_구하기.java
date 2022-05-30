@@ -1,8 +1,9 @@
 package com.programmers.test.level1;
 
-public class Test12 {
+// Æò±Õ ±¸ÇÏ±â https://programmers.co.kr/learn/courses/30/lessons/12944
+public class Æò±Õ_±¸ÇÏ±â {
 	public static void main(String[] args) {
-		Test12 test = new Test12();
+		Æò±Õ_±¸ÇÏ±â test = new Æò±Õ_±¸ÇÏ±â();
 		int[] arr = { 1, 2, 3, 4 };
 		System.out.println(test.solution(arr));
 	}
