@@ -2,6 +2,7 @@ package com.programmers.test.level1;
 
 // ÇÏ»þµå ¼ö  https://programmers.co.kr/learn/courses/30/lessons/12947
 public class ÇÏ»þµå_¼ö {
+	¹ÌÇØ°á
 	public static void main(String[] args) {
 		ÇÏ»þµå_¼ö test = new ÇÏ»þµå_¼ö();
 
