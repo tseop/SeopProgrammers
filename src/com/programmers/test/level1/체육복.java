@@ -2,10 +2,10 @@ package com.programmers.test.level1;
 
 import java.util.Arrays;
 
-public class Test5 {
+// Ã¼À°º¹  https://programmers.co.kr/learn/courses/30/lessons/42862
+public class Ã¼À°º¹ {
 	public static void main(String[] args) {
-		Test5 test = new Test5();
-		int result;
+		Ã¼À°º¹ test = new Ã¼À°º¹();
 
 		int n1 = 5;
 		int[] lost1 = { 2, 4 };

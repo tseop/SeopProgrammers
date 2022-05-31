@@ -1,8 +1,9 @@
 package com.programmers.test.level1;
 
-public class Test10 {
+// Çà·ÄÀÇ µ¡¼À https://programmers.co.kr/learn/courses/30/lessons/12950
+public class Çà·ÄÀÇ_µ¡¼À {
 	public static void main(String[] args) {
-		Test10 test = new Test10();
+		Çà·ÄÀÇ_µ¡¼À test = new Çà·ÄÀÇ_µ¡¼À();
 
 		int[][] arr = { { 1, 2 }, { 2, 3 } };
 		int[][] arr2 = { { 3, 4 }, { 5, 6 } };
