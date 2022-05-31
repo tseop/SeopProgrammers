@@ -1,8 +1,9 @@
 package com.programmers.test.level1;
 
-public class Test11 {
+// 핸드폰 번호 가리기  https://programmers.co.kr/learn/courses/30/lessons/12948
+public class 핸드폰_번호_가리기 {
 	public static void main(String[] args) {
-		Test11 test = new Test11();
+		핸드폰_번호_가리기 test = new 핸드폰_번호_가리기();
 		System.out.println(test.solution("01033334444"));
 		System.out.println(test.solution("027778888"));
 	}

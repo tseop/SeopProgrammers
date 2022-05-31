@@ -3,9 +3,10 @@ package com.programmers.test.level1;
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class Test2 {
+// 크레인 인형뽑기 게임  https://programmers.co.kr/learn/courses/30/lessons/64061
+public class 크레인_인형뽑기_게임 {
 	public static void main(String[] args) {
-		Test2 test = new Test2();
+		크레인_인형뽑기_게임 test = new 크레인_인형뽑기_게임();
 		int[][] board = { { 0, 0, 0, 0, 0 }, { 0, 0, 1, 0, 3 }, { 0, 2, 5, 0, 1 }, { 4, 2, 4, 4, 2 },
 				{ 3, 5, 1, 3, 1 } };
 		int[] moves = { 1, 5, 3, 5, 1, 2, 1, 4 };

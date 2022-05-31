@@ -1,15 +1,7 @@
 package com.programmers.test.level1;
-
-/**
- * 신규 아이디 추천 https://programmers.co.kr/learn/courses/30/lessons/72410
- */
-public class Test1 {
-	public static void main(String[] args) {
-		Test1 sample = new Test1();
-		sample.solution("=.=");
-	}
-
-	public String solution(String new_id) {
+// 신규 아이디 추천 https://programmers.co.kr/learn/courses/30/lessons/72410
+public class 신규_아이디_추천 {
+    public String solution(String new_id) {
 		String answer = "";
 
 		// step 1
@@ -69,6 +61,5 @@ public class Test1 {
 		}
 
 		return answer;
-	}
-
+    }
 }

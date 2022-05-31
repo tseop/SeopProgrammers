@@ -1,9 +1,10 @@
 package com.programmers.test.level1;
 
-public class Test9 {
+// x만큼 간격이 있는 n개의 숫자  https://programmers.co.kr/learn/courses/30/lessons/12954
+public class x만큼_간격이_있는_n개의_숫자 {
 
 	public static void main(String[] args) {
-		Test9 test = new Test9();
+		x만큼_간격이_있는_n개의_숫자 test = new x만큼_간격이_있는_n개의_숫자();
 
 		long[] result1 = test.solution(2, 5);
 

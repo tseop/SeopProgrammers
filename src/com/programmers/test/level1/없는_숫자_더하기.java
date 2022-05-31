@@ -1,8 +1,9 @@
 package com.programmers.test.level1;
 
-public class Test3 {
+// 없는 숫자 더하기  https://programmers.co.kr/learn/courses/30/lessons/86051
+public class 없는_숫자_더하기 {
 	public static void main(String[] args) {
-		Test3 test = new Test3();
+		없는_숫자_더하기 test = new 없는_숫자_더하기();
 
 		int[] test1 = { 1, 2, 3, 4, 6, 7, 8, 0 };
 		int[] test2 = { 5, 8, 4, 0, 6, 7, 9 };

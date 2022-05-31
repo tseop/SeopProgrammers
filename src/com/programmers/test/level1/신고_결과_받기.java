@@ -1,16 +1,13 @@
 package com.programmers.test.level1;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Set;
 
-public class Test4 {
+// 신고 결과 받기  https://programmers.co.kr/learn/courses/30/lessons/92334
+public class 신고_결과_받기 {
 	public static void main(String[] args) {
-		Test4 test = new Test4();
+		신고_결과_받기 test = new 신고_결과_받기();
 
 		String[] test1 = { "leo", "kiki", "eden" };
 		String[] test2 = { "marina", "josipa", "nikola", "vinko", "filipa" };
